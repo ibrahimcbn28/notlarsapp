@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ibrahim",
+      "email": "demo@example.com",
+      "password": "123456",
+      "avatar": "https://via.placeholder.com/150",
+      "createdAt": "2024-03-20T10:00:00.000Z"
+    },
+    {
+      "id": 1748790743910,
+      "name": "admin",
+      "email": "admin@hotmail.com",
+      "password": "asdasd123",
+      "avatar": "https://via.placeholder.com/150",
+      "createdAt": "2025-06-01T15:12:23.910Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Hoş Geldiniz",
+      "content": "Notlar uygulamasına hoş geldiniz! Bu bir örnek nottur.",
+      "createdAt": "2024-03-20T10:00:00.000Z",
+      "updatedAt": "2024-03-20T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Toplantı Notları",
+      "content": "- Proje timeline'ı gözden geçirilecek\n- Yeni özellikler planlanacak\n- Bütçe görüşülecek",
+      "createdAt": "2024-03-15T11:30:00.000Z",
+      "updatedAt": "2025-06-01T15:45:03.794Z"
+    },
+    {
+      "id": 3,
+      "title": "Yapılacaklar",
+      "content": "1. E-postaları yanıtla\n2. Raporları hazırla\n3. Sunumu tamamla",
+      "createdAt": "2024-03-15T14:15:00.000Z"
+    },
+    {
+      "title": "Film Önerileri",
+      "content": "- Inception\n- The Matrix\n- Interstellar\n- The Dark Knight\n- Shutter Island",
+      "updatedAt": "2025-06-01T14:21:42.340Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Kitap Notları",
+      "content": "Sayfa 42: İlginç bir bakış açısı sunuyor...\nSayfa 78: Bu kısım tekrar okunmalı...",
+      "createdAt": "2024-03-15T18:20:00.000Z"
+    },
+    {
+      "title": "izlenecek filmler",
+      "content": "yıldızlararası \nzindan adası\nsıkıysa yakala\nesaretin bedeli",
+      "userId": 1,
+      "createdAt": "2025-06-01T14:57:47.981Z",
+      "id": 6,
+      "updatedAt": "2025-06-01T16:01:10.830Z"
+    },
+    {
+      "title": "dasdasd",
+      "content": "assadsadasasdas",
+      "userId": 1748790743910,
+      "createdAt": "2025-06-01T15:12:32.532Z",
+      "id": 7,
+      "updatedAt": "2025-06-01T15:12:54.981Z"
+    },
+    {
+      "title": "asdasdasda<zxcx<x",
+      "content": "asdasdadassadsa",
+      "userId": 1,
+      "createdAt": "2025-06-01T16:00:19.451Z",
+      "id": 8,
+      "updatedAt": "2025-06-01T16:24:34.162Z"
+    },
+    {
+      "title": "doğum günü partisini unutma",
+      "content": "7 haziran günü ayşenin doğum günü",
+      "userId": 1,
+      "createdAt": "2025-06-01T16:30:22.046Z",
+      "id": 9
+    }
+  ],
+  "settings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "theme": "light"
+    }
+  ]
+}
